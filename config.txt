@@ -1,0 +1,7 @@
+MoveSpeed=50
+MinimumCD=5
+WeaponCD=15
+WeaponMoveFactor=0.5
+BulletRange=20
+BulletSpeed=200
+BulletSize=0.5
